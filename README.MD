@@ -1,0 +1,1 @@
+This is a simple implementation (ColdFusion 10+) of an Alexa Flash Briefing skill using the NPS API (https://developer.nps.gov/api/index.htm). It returns the most recently published news release from https://www.nps.gov to the Alexa device using the Flash Briefing API.
